@@ -44,7 +44,7 @@ The **Products Service** provides endpoints for managing the product inventory w
 
 ## Database Schema
 
-The application uses a PostgreSQL database with two primary tables:
+The application uses a MYSQL database with two primary tables:
 
 1. **Tokens Table**:
    - Stores information about generated JWT tokens and their validity status.
